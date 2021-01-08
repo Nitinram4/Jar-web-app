@@ -6,7 +6,7 @@
 
 <h1 align="center">JaaR WebApp</h1>
 <p align="center">
-  The official Code for website
+  the official Code for website
 </p>
 
 <a href="https://github.com/Creatoon/Jaar-Chat-WebApp">
